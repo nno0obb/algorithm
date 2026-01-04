@@ -17,6 +17,9 @@
 - [13023. ABCDE](https://www.acmicpc.net/problem/13023)
 - [4307. 개미](https://www.acmicpc.net/problem/4307)
 - [1300. K번째 수](https://www.acmicpc.net/problem/1300)
+- [1744. 수 묶기](https://www.acmicpc.net/problem/1744)
+- [1456. 거의 소수](https://www.acmicpc.net/problem/1456)
+- [1016. 제곱 ㄴㄴ수](https://www.acmicpc.net/problem/1016)
 
 ## boj
 
