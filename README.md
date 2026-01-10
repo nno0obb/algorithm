@@ -20,6 +20,7 @@
 - [1744. 수 묶기](https://www.acmicpc.net/problem/1744)
 - [1456. 거의 소수](https://www.acmicpc.net/problem/1456)
 - [1016. 제곱 ㄴㄴ수](https://www.acmicpc.net/problem/1016)
+- [1850. 칵테일](https://www.acmicpc.net/problem/1033https://www.acmicpc.net/problem/1033)
 
 ## boj
 
