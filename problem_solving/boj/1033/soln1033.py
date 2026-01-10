@@ -6,7 +6,6 @@
 """
 
 from collections import deque
-from math import gcd, lcm
 
 
 def main():
