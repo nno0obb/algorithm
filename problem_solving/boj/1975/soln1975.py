@@ -6,8 +6,6 @@
 """
 
 import sys
-from collections import Counter
-from functools import reduce
 
 
 def main():
