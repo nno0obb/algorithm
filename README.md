@@ -23,6 +23,7 @@
 - [1850. 칵테일](https://www.acmicpc.net/problem/1033https://www.acmicpc.net/problem/1033)
 - [1334. 다음 팰린드롬 수](https://www.acmicpc.net/problem/1334)
 - [1325. 효율적인 해킹](https://www.acmicpc.net/problem/1325)
+- [1043. 거짓말](https://www.acmicpc.net/problem/1043)
 
 ## boj
 
