@@ -13,6 +13,14 @@
 - [406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/description/)
 - [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/)
 - [134. Gas Station](https://leetcode.com/problems/gas-station/description/)
+
+
+## boj
+
+- [25918. 북극곰은 괄호를 찢어](https://www.acmicpc.net/problem/25918)
+- [22342. 계산 로봇](https://www.acmicpc.net/problem/22342)
+- [9764. 서로 다른 자연수의 합](https://www.acmicpc.net/problem/9764)
+- [1377. 버블 소트](https://www.acmicpc.net/problem/1377)
 - [1517. 버블 소트](https://www.acmicpc.net/problem/1517)
 - [13023. ABCDE](https://www.acmicpc.net/problem/13023)
 - [4307. 개미](https://www.acmicpc.net/problem/4307)
@@ -25,13 +33,7 @@
 - [1325. 효율적인 해킹](https://www.acmicpc.net/problem/1325)
 - [1043. 거짓말](https://www.acmicpc.net/problem/1043)
 - [1854. K번째 최단경로 찾기](https://www.acmicpc.net/problem/1854)
-
-## boj
-
-- [25918. 북극곰은 괄호를 찢어](https://www.acmicpc.net/problem/25918)
-- [22342. 계산 로봇](https://www.acmicpc.net/problem/22342)
-- [9764. 서로 다른 자연수의 합](https://www.acmicpc.net/problem/9764)
-- [1377. 버블 소트](https://www.acmicpc.net/problem/1377)
+- [1219. 오민식의 고민](https://www.acmicpc.net/problem/1219)
 
 # Init
 
