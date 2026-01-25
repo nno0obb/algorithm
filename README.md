@@ -24,6 +24,7 @@
 - [1334. 다음 팰린드롬 수](https://www.acmicpc.net/problem/1334)
 - [1325. 효율적인 해킹](https://www.acmicpc.net/problem/1325)
 - [1043. 거짓말](https://www.acmicpc.net/problem/1043)
+- [1854. K번째 최단경로 찾기](https://www.acmicpc.net/problem/1854)
 
 ## boj
 
@@ -46,7 +47,7 @@ $ python3 init.py --no <NO>
 
 ## boj
 
-### python
+### pytho기
 
 ```shell
 $ activate
