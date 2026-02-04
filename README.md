@@ -35,6 +35,7 @@
 - [1854. K번째 최단경로 찾기](https://www.acmicpc.net/problem/1854)
 - [1219. 오민식의 고민](https://www.acmicpc.net/problem/1219)
 - [11505. 구간 곱 구하기](https://www.acmicpc.net/problem/11505)
+- [1722. 순열의 순서](https://www.acmicpc.net/problem/1722)
 
 # Init
 
