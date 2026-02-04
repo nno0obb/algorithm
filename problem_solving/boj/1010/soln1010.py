@@ -5,8 +5,6 @@
 # by "nno0obb"
 """
 
-import math
-
 # Global Variables
 MAX_N = 30
 MAX_M = 30
