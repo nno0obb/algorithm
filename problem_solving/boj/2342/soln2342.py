@@ -18,8 +18,6 @@ def main():
             return 2
         elif _from == _to:
             return 1
-        elif abs(_from - _to) in [1, 3]:
-            return 3
         elif abs(_from - _to) == 2:
             return 4
         else:
