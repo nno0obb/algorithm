@@ -38,6 +38,7 @@
 - [1722. 순열의 순서](https://www.acmicpc.net/problem/1722)
 - [1256. 사전](https://www.acmicpc.net/problem/1256)
 - [1947. 선물 전달](https://www.acmicpc.net/problem/1947)
+- [11049. 행렬 곱셈 순서](https://www.acmicpc.net/problem/11049)
 
 # Init
 
