@@ -6,7 +6,6 @@
 """
 
 import sys
-from itertools import chain
 
 
 def main():
